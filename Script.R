@@ -57,5 +57,6 @@ renv::snapshot()
 # Para restaurar el proyecto en otro equipo, ejecutar: 
 # renv::restore()
 
-#Esta linea se ha anadido para ver si git push/pull funcionan correctamente
-
+#Estas lineas se han anadido
+#Para ver si funciona la restauracion automatica en GitHub Actions
+#al hacer git push

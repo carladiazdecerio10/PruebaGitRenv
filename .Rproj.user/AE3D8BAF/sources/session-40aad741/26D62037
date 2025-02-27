@@ -1,9 +1,9 @@
 {
     "id": "26D62037",
-    "path": "C:/Users/carli/OneDrive/Escritorio/TFG/TFG_CarlaDíazdeCerioReal/CongelaciónRenv/Prueba2_1_5/Script.R",
+    "path": "C:/Users/carli/OneDrive/Escritorio/TFG/TFG_CarlaDíazdeCerioReal/CongelaciónRenv/PruebaGitRenv/Script.R",
     "project_path": "Script.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3304661153",
     "contents": "",
     "dirty": false,
     "created": 1740522362719.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,0",
-        "scrollLine": "2"
+        "cursorPosition": "61,18",
+        "scrollLine": "40"
     },
     "folds": "",
-    "lastKnownWriteTime": 1740606443,
+    "lastKnownWriteTime": 1740640998,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1740606443,
+    "last_content_update": 1740640998954,
     "read_only": false,
     "read_only_alternatives": []
 }
