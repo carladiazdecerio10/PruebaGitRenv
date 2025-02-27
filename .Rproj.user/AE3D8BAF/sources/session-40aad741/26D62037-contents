@@ -60,3 +60,5 @@ renv::snapshot()
 #Estas lineas se han anadido
 #Para ver si funciona la restauracion automatica en GitHub Actions
 #al hacer git push
+
+library(stringr)
